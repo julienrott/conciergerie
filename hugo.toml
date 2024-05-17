@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Clés Azur Estérel'
+theme = "hugo-scroll"
+
+[params]
+    title = "Clés Azur Estérel"
+    description = "Conciergerie à Estérel"
+    copyright = "© Clés Azur Estérel"
+    hidedesignbyline = true
+
+    [params.meta]
+    keywords = "conciergerie, estérel"
